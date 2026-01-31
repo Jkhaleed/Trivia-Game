@@ -40,3 +40,12 @@ SUBJECTS = {
     'Vehicles': '28',
     'Celebrities': '26',
 }
+
+# Islamic categories (CSV only)
+ISLAMIC_SUBJECTS = {
+    'Quran': 'Quran',
+    'Seerah': 'Seerah',
+    'Dua And Dhikr': 'Dua And Dhikr',
+    'Salah': 'Salah',
+    'Prophets': 'Prophets',
+}
