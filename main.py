@@ -12,7 +12,7 @@ pygame.init()
 
 # Set up the display
 SCREEN_WIDTH = 1200
-SCREEN_HEIGHT = 800
+SCREEN_HEIGHT = 810
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption('Trivia Challenge')
 
